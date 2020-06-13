@@ -1,0 +1,14 @@
+{
+  "name": "build-tree",
+  "version": "1.0.0",
+  "description": "Convert an array with Parent ID to a Parent and Child tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emaxters",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
